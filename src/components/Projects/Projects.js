@@ -25,7 +25,8 @@ function Projects() {
               isBlog={false}
               title="StudyNotion Website"
               description="StudyNotion is a MERN-based ed-tech platform offering interactive learning, course management, secure payments, cloud storage, AI recommendations, and gamification."
-              ghLink="https://github.com/laxmany9335/Study-Notion-.git"              
+              ghLink="https://github.com/laxmany9335/study.git"  
+              demoLink="https://studynotion-beryl-omega.vercel.app/"            
             />
           </Col>
           <Col md={4} className="project-card">
